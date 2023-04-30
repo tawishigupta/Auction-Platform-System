@@ -1,0 +1,4 @@
+JPype1==1.3.0
+py4j==0.10.9
+JPype==1.2.0
+jaydebeapi==1.2.3
